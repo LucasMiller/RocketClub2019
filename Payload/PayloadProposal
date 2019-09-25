@@ -2,11 +2,15 @@ Payload Project Proposal goes here
 
 
 GPS/Altimeter for flight tracking. Gyroscope for rocket orientation tracking. 
-  make 3D models of flight path
+  Make 3D models of flight path
   Compare to simulations
-  
+  Use different altimeters to compare data
+  Featherweight GPS tracker
+
+Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055
+  Capable of meeting our flight tracking needs and more. 
+
 Multiple Cameras for 360 degree viewing angles.
 
-
-
 Geiger Counter
+  Sounds cool
